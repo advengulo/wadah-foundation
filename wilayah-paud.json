@@ -1,0 +1,53 @@
+{
+    "data-paud": [
+        {
+            "id": "001",
+            "wilayah": "Jakarta",
+            "status": "Aktif",
+            "total": "110",
+            "list-paud" :  [
+                {"id-paud": "001", "nama-paud": "PAUD - A", "total" : "20"},
+                {"id-paud": "002", "nama-paud": "PAUD - B", "total" : "25"},
+                {"id-paud": "003", "nama-paud": "PAUD - C", "total" : "30"},
+                {"id-paud": "004", "nama-paud": "PAUD - D", "total" : "35"}
+            ]
+        },
+        {
+            "id": "002",
+            "wilayah": "Bandung",
+            "status": "Aktif",
+            "total" : "80",
+            "list-paud" :  [
+                {"id-paud": "005", "nama-paud": "PAUD - E", "total" : "20"},
+                {"id-paud": "006", "nama-paud": "PAUD - F", "total" : "20"},
+                {"id-paud": "007", "nama-paud": "PAUD - G", "total" : "20"},
+                {"id-paud": "008", "nama-paud": "PAUD - H", "total" : "20"}
+            ]
+        },
+        {
+            "id": "003",
+            "wilayah": "Medan",
+            "status": "Aktif",
+            "total" : "80",
+            "list-paud" :  [
+                {"id-paud": "009", "nama-paud": "PAUD - I", "total" : "20"},
+                {"id-paud": "010", "nama-paud": "PAUD - J", "total" : "20"},
+                {"id-paud": "011", "nama-paud": "PAUD - K", "total" : "20"},
+                {"id-paud": "012", "nama-paud": "PAUD - L", "total" : "20"}
+            ]
+        },
+        {
+            "id": "004",
+            "wilayah": "Surabaya",
+            "status": "Aktif",
+            "total" : "80",
+            "list-paud" :  [
+                {"id-paud": "013", "nama-paud": "PAUD - M", "total" : "20"},
+                {"id-paud": "014", "nama-paud": "PAUD - N", "total" : "20"},
+                {"id-paud": "015", "nama-paud": "PAUD - O", "total" : "20"},
+                {"id-paud": "016", "nama-paud": "PAUD - P", "total" : "20"}
+            ]
+        }
+        
+    ]
+}

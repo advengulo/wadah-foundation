@@ -1,0 +1,35 @@
+{
+    "user": [
+        {
+            "id": "001",
+            "nama": "Kevin",
+            "status": "Aktif"
+        },
+        {
+            "id": "002",
+            "nama": "Jack",
+            "status": "Aktif"
+        },
+        {
+            "id": "003",
+            "nama": "Martin",
+            "status": "Aktif"
+        },
+        {
+            "id": "004",
+            "nama": "Michael",
+            "status": "Aktif"
+        },
+        {
+            "id": "005",
+            "nama": "John",
+            "status": "Inaktif"
+        },
+        {
+            "id": "006",
+            "nama": "Mark",
+            "status": "Inaktif"
+        }
+        
+    ]
+}
